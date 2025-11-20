@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @eksozeri the software steward at the University of Twente
-- 💞️ I’m looking to collaborate on FAIR research software
+- 💞️ I’m looking to collaborate on FAIR research software and Interoperability
 - 📫 You can reach me at: people.utwente.nl/e.k.sozeri
